@@ -1,1 +1,2 @@
 # Mock_Gatus
+test
